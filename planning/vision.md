@@ -145,7 +145,11 @@ Every pieces must follow the Matrix standard as defined by the Matrix.org Fondat
 
 ## 4. Product Overview
 
+This product will allow users to connect to voicerooms with a client using this product SDK and with a homeserver serving this product App Server. The product will respect the Matrix protocol philosophy by enabling distributed, E2EE and private voice communications.
+
 ### 4.1 Product context
+
+![](./vision-context-view.drawio.svg)
 
 **Figure 4.1.1:** Product context
 
@@ -174,6 +178,8 @@ Every pieces must follow the Matrix standard as defined by the Matrix.org Fondat
 
 
 ### 4.3 Hypotheses and dependencies
+
+This project will assume that the external parts (homeserver and clients) respects the Matrix protocol.
 
 ### 4.4 Licensing
 
