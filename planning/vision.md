@@ -135,7 +135,7 @@ Every pieces must follow the Matrix standard as defined by the Matrix.org Fondat
 | **N06** – User wants to be able to mute himself | Critical | Users can mute themselves in 1:1 calls and Jitsi | Users can mute themselves in all calls including voice rooms |
 | **N07** – User wants to be adjust volume or mute other individually | Important | Jitsi supports muting others but adjusting volume individually | Users can mute others in a voice room or adjust their volume  |
 | **N08** – Integration with current and future Matrix specifications | Critical | 1:1 calls respect the Matrix protocol and Jitsi is an extension as defined in theMatrix protocol | This product should also fit in the Matrix specification and be open to future changes, notably the proposal for group VoIP[^4] |
-| **N09** – Users privacy and security must be protected | Critical | Everything is E2EE by default. In 1:1 and Jitsi calls, IPs can be leaked | Some version of E2EE must be used in voice rooms. IPs must be protected |
+| **N09** – Users privacy and security must be protected | Critical | Everything is E2EE by default. | Some version of E2EE must be used in voice rooms. IPs must be protected |
 | **N10** – Users want to share their screen | Low | Only through a Jitsi call | Users should be able to share their screen directly in a room |
 | **N11** – Users want to show their camera feed | Low | Only through a Jitsi call | Users should be able to share their camera feed directly a room |
 | **N12** – Users want to suppress background noise | Low | N/A | Users should be able to activate some background noise suppression on their device |
