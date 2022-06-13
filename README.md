@@ -4,7 +4,7 @@
 
 # Matrix Voicerooms
 
-This project aims to create a voice rooms solution integrated in the Matrix ecosystem. This solution will be conceptualized and programmed by CEDILLE (open-source student club at École de Technologie Supérieure) with the help of the opensource community. The idea is not to create a specefic client with audio support, but to create a pluggable solution usable by clients who wants to integrate it.
+This project aims to create a voice rooms solution integrated in the Matrix ecosystem. This solution will be conceptualized and programmed by CEDILLE (open-source student club at École de Technologie Supérieure) with the help of the opensource community. The idea is not to create a specific client with audio support, but to create a pluggable solution usable by clients who wants to integrate it.
 
 The project will use 2 main components:
 
