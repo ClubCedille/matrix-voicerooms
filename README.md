@@ -17,4 +17,4 @@ This repository contains all the planification documentation, wikis and constitu
 
 **Kanban board:** https://tree.taiga.io/project/simon-boyer-matrix-voicerooms/kanban
 
-**Vision document**: ![planning/vision.md](planning/vision.md)
+**Vision document**: [planning/vision.md](planning/vision.md)
